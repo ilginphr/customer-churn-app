@@ -1,4 +1,5 @@
 # 📊 Customer Churn Prediction App
+https://customer-churn-app-ilginpuhur.streamlit.app/
 
 This project is a **Machine Learning web application** built to predict the likelihood of a customer leaving a service (churning), based on demographic and usage-related inputs.
 
